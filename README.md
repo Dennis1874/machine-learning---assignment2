@@ -1,6 +1,3 @@
-## Author:
-Tianzuo Zhang(SID:470085460), Dehong Liang(SID:470188761) and Shanshan Luo(SID:470349580)
-
 ## Tool environment
 * python 3.7.0
 * numpy 1.15.0
